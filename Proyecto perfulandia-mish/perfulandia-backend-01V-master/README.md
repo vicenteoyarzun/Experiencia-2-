@@ -37,9 +37,10 @@ Este repositorio contiene el desarrollo técnico del sistema basado en microserv
 
 | Nombre                  | Rol en el proyecto         | Servicio principal trabajado |
 |-------------------------|----------------------------|------------------------------|
-| Nombre del integrante 1 | (Ej: Backend - Usuarios)   | usuarioservice               |
-| Nombre del integrante 2 | (Ej: Backend - Productos)  | productoservice              |
-| Nombre del integrante 3 | (Ej:Repositorio)           | pedidoservice                |
+| Vicente Oyarzún         | Backend - Usuarios         | authenticationservice        |
+| Tomás López             | Backend - Productos        | shoppingcartservice          |
+| Samuel Pérez            | Repositorio/Backend        | shoppingservice              |
+
 
 ## 📂 Estructura del Repositorio
 
